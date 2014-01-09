@@ -1,0 +1,17 @@
+# It's come to my attention that a few mass downloaders will connect to a remote institution's VPN
+# before connecting to our EZProxy server.  I believe that few of our legitimate users will be
+# connecting from a vpn on some other institution's campus, so I propose we make a list of our VPN
+# IP ranges here to create a communal RejectIP file.  Each institution should remove its own entry
+# before using this file.
+#
+
+# umich.edu
+RejectIP 141.211.4.10-141.211.7.249
+RejectIP 141.211.38.9-10
+RejectIP 141.211.255.2-4
+RejectIP 141.213.160.128-141.213.160.254
+RejectIP 141.214.241.0-141.214.241.255
+RejectIP 207.75.156.0-207.75.156.255
+
+# ucla.edu
+RejectIP 128.97.244.0–128.97.244.255
