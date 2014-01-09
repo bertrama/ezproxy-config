@@ -1,0 +1,60 @@
+# Wiley has been tracking down sci-hub.org activity for a while.
+# Sébastien Nadeau shared this list of IPs as provided by Wiley.
+
+# Depending on your feelings for providing access vs protecting 
+# your vendors, you may not want to include this file.
+
+# Suspected to be used by sci-hub.org
+RejectIP 41.42.0.0-41.42.255.255
+RejectIP 193.104.110.0-193.104.110.255
+RejectIP 193.105.154.0-193.105.154.255
+RejectIP 194.29.185.0-194.29.185.255
+RejectIP 195.78.108.0-195.78.109.255
+RejectIP 62.122.72.0-62.122.73.255
+RejectIP 91.210.100.0-91.210.103.255
+RejectIP 91.229.248.0-91.229.248.255
+RejectIP 31.57.2.65
+RejectIP 41.37.122.57
+RejectIP 41.232.176.167
+RejectIP 46.105.143.95
+RejectIP 58.97.174.170
+RejectIP 58.97.215.91
+RejectIP 69.64.36.73
+RejectIP 69.64.48.246
+RejectIP 79.165.251.103
+RejectIP 82.146.55.226
+RejectIP 82.146.50.47
+RejectIP 85.25.15.144
+RejectIP 85.25.15.145
+RejectIP 87.98.158.184
+RejectIP 87.118.108.202
+RejectIP 88.198.124.165
+RejectIP 88.198.124.166
+RejectIP 91.218.121.130
+RejectIP 95.169.185.130
+RejectIP 109.108.74.135
+RejectIP 113.166.95.77
+RejectIP 173.242.120.149
+RejectIP 176.56.224.196
+RejectIP 178.63.149.42
+RejectIP 178.63.149.44
+RejectIP 178.63.149.46
+RejectIP 180.149.7.23
+RejectIP 180.149.29.151
+RejectIP 183.166.46.42
+RejectIP 188.118.91.109
+RejectIP 188.118.90.166
+RejectIP 193.104.110.108
+RejectIP 193.104.110.139
+RejectIP 193.105.171.207
+RejectIP 197.0.233.125
+RejectIP 198.55.49.132
+RejectIP 207.99.118.149
+RejectIP 207.192.117.11
+RejectIP 210.212.217.37
+RejectIP 213.175.177.206
+RejectIP 213.239.212.187
+RejectIP 217.172.182.166
+RejectIP 217.218.40.129
+RejectIP 219.232.100.129
+RejectIP 222.253.29.149
